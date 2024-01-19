@@ -348,7 +348,7 @@ Resource planning in digital marketing involves strategically allocating and man
 In digital marketing, resource planning and allocation are integral to achieving success. It ensures that resources are used efficiently, campaigns are effective, and the marketing team operates at its full potential.
 
 
-### Visibility in Digital Marketing:
+# Visibility in Digital Marketing:
 
 **Visibility in digital marketing refers to the extent to which a brand, product, or service is seen by its target audience across various online channels. It is a key metric for assessing the effectiveness of digital marketing efforts in reaching and engaging the intended audience.**
 
